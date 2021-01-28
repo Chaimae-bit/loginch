@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">loginV</string>
+    <string name="s_identifier">S\'identifier</string>
+    <string name="todo">TODO</string>
+    <string name="adresse_mail">Adresse mail</string>
+    <string name="mot_de_passe" />
+    <string name="pass">Mot de passe</string>
+    <string name="motdepass">Mot de passe</string>
+    <string name="mot_de_passe_oubli">Mot de passe oublié ?</string>
+    <string name="se_souvenir_de_moi">Se souvenir de moi</string>
+    <string name="adresse_email">Adresse email</string>
+    <string name="s_inscrire">S\'inscrire</string>
+</resources>
